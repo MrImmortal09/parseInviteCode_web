@@ -1,0 +1,1 @@
+{"version":3,"file":"FederationService.d.ts","sourceRoot":"","sources":["../../../src/services/FederationService.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,SAAS,EAAE,MAAM,UAAU,CAAA;AACzC,OAAO,EAAE,YAAY,EAAE,MAAM,WAAW,CAAA;AAExC,qBAAa,iBAAiB;IAChB,OAAO,CAAC,MAAM;gBAAN,MAAM,EAAE,YAAY;IAElC,SAAS;IAIT,eAAe;IAIf,aAAa,CAAC,IAAI,GAAE,MAAU;IAM9B,cAAc;CAGrB"}
