@@ -93,7 +93,7 @@ type SpendNotesState =
   | 'Success'
   | 'Refunded'
 
-export {
+export type {
   LightningGateway,
   RouteHint,
   FeeToAmount,

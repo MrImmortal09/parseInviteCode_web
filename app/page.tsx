@@ -1,6 +1,6 @@
 "use client"
 import { useState, useEffect } from 'react';
-import { FedimintWallet } from '@/vendor/@fedimint/core-web';
+import { FedimintWallet } from '@fedimint/core-web';
 
 export default function FedimintPage() {
   const [wallet, setWallet] = useState<FedimintWallet | null>(null);
