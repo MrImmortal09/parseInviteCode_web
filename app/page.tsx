@@ -53,6 +53,7 @@ export default function FedimintPage() {
       setLoading(false);
     } catch (err: unknown) {
       const errorMessage = err instanceof Error ? err.message : 'Unknown error occurred';
+      console.log("Invite code parsing error:", err);
       setError(`Failed to parse invite code: ${errorMessage}`);
       setLoading(false);
       console.error("Invite code parsing error:", err);
