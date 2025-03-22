@@ -5,7 +5,6 @@
 Parses an invite code and extracts its components (`federationId` and `url`) **without joining the federation**.
 
 ```ts twoslash
-// @esModuleInterop
 import { FedimintWallet } from '@fedimint/core-web'
 
 const wallet = new FedimintWallet()
